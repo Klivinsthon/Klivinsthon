@@ -1,6 +1,6 @@
-- Hi, I’m Klivinsthon and I'm from Brazil
-- I'm a computers networks student at Estácio de Sá university
-- I’m interested in web development
-- I’m currently learning front-end development with html, css, javascript, sass, bulma, bootstrap and others
-- To reach me you can use the email address contato_klivinsthon@outlook.com
-- My linkedin account: https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/
+- Olá! Eu sou Klivinsthon, sou um estudante de redes de computadores na faculdade Estácio de Sá
+- Estou interessado em atuar na área de desenvolvimento web
+- Entendo de tecnologias como html, css, sass, javascript, bulma e bootstrap
+- Estou sempre buscando mais conhecimento para me tornar um bom programador
+- Para entrar em contato comigo você pode usar o endereço de email contato_klivinsthon@outlook.com
+- Minha conta no linkedin é essa: https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/
