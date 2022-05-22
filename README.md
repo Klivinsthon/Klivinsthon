@@ -1,5 +1,5 @@
 - Olá! Eu sou Klivinsthon, sou um estudante de redes de computadores na faculdade Estácio de Sá
-- Estou interessado em atuar na área de desenvolvimento web
+- Busco novos horizontes na área de desenvolvimento
 - Entendo de tecnologias como html, css, sass, javascript, bulma e bootstrap
 - Estou sempre buscando mais conhecimento para me tornar um bom programador
 - Para entrar em contato comigo você pode usar o endereço de email contato_klivinsthon@outlook.com
