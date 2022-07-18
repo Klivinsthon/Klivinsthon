@@ -8,10 +8,9 @@
 <p>
   🌎 Busco novos horizontes na área de desenvolvimento<br/>
   📚 Sou um estudante de redes de computadores na faculdade Estácio de Sá<br/>
-  💻 Entendo de tecnologias como HTML, CSS, javascript, TailwindCSS e React<br/>
-  💡 &nbsp;Estou sempre buscando mais conhecimento para me tornar um bom programador<br/>
+  &nbsp;💡 Estou sempre buscando mais conhecimento para me tornar um bom programador<br/>
   📧 Para entrar em contato comigo você pode usar o endereço de email <b>contato_klivinsthon@outlook.com<br/></b>
-  🕴️ &nbsp;&nbsp;<a href="https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/" target="_blank">Clique aqui para visualizar meu perfil no linkedin</a>
+  &nbsp;🕴️ &nbsp;Você pode ver meu perfil no linkedin <a href="https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/" target="_blank">aqui</a>
 </p>
 
 ##
