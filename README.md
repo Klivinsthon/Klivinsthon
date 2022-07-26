@@ -10,7 +10,8 @@
   📚 Sou um estudante de redes de computadores na faculdade Estácio de Sá<br/>
   &nbsp;💡 Estou sempre buscando mais conhecimento para me tornar um bom programador<br/>
   📧 Para entrar em contato comigo você pode usar o endereço de email <b>contato_klivinsthon@outlook.com<br/></b>
-  &nbsp;🕴️ &nbsp;Você pode ver meu perfil no linkedin <a href="https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/" target="_blank">aqui</a>
+  &nbsp;🕴️ &nbsp;Você pode ver meu perfil no linkedin <a href="https://www.linkedin.com/in/klivinsthon-kendert-994b251aa/" target="_blank">aqui</a><br/>
+  📝 <a href="https://thriving-gumption-f05759.netlify.app/">Clique aqui para ver meu currículo</a>
 </p>
 
 ##
